@@ -12,6 +12,6 @@ do repositório, as técnologias utilizadas e para cada visita à URL o projeto 
 ![automatic Tests](Testes.gif)
 
 <h2>Git clone</h2>
-<p> Para quem estiver com interesse em replicar o desafio, basta realizar um git clone https://github.com/Gasorey/desafio-conceitos-nodejs no seu editor de texto em seguida dentro da pasta criada usar o comando "yarn" no terminal criar a pasta node modules</p>
+<p> Para quem estiver interessado em replicar o desafio, basta realizar um git clone https://github.com/Gasorey/desafio-conceitos-nodejs no seu editor de texto em seguida dentro da pasta criada usar o comando "yarn" no terminal criar a pasta node modules</p>
 
 
